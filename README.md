@@ -1,5 +1,3 @@
-# FirstCarModel
-
 # FirstCarModel 
 
 Dieses Projekt ist mein erstes Machine-Learning-Modell mit TensorFlow/Keras.  
